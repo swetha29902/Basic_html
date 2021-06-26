@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/swetha29902/Basic_html/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swetha29902/Basic_html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+ <head>
+	 <title>Cricket Trivia</title>
+	
+ </head>
+ <body>
+	 <ul>
+  		 <li>Gameplay</li>
+         <li>Tournament</li>
+         <li>Stats</li>
+         <li>Scores</li>
+         <li>More</li>
+     </ul>
+	 <img src="WEB_LOGO2.png" style="width:500px;height:200px;">
+	 <hr>
+	 <h4 style="color:purple;"> My interest towards this game</h4>
+     <p>Hi, my name is Smriti. <br>I am a cricket lover and my love for this started since I started watching while growing up.
+        I also learnt how to play, the procedures, etc...<br>
+        I am here starting a blog for this game. Hope you get a lot of informations about cricket.<br><br><br>
+        THANK YOU  </p>
+ </body>
+</html>
